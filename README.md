@@ -6,8 +6,6 @@ A minimal, light-only portfolio hosted at https://suhas1999.github.io/.
 
 - `index.html` — short introduction and dated news.
 - `cv.html` — career, education, and research overview with the full CV download.
-- `publications.html` — WACV 2023 work and publication in preparation.
-- `writing.html` — placeholder for future articles.
 - `contact.html` — email, LinkedIn, and CV links.
 - `styles.css` — shared black-and-white styling, mobile layout, and print styles.
 - `assets/` — favicon and original resume PDF.
