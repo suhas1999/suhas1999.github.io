@@ -20,7 +20,7 @@ a:focus-visible { outline: 2px solid var(--ink); outline-offset: 5px; }
 ::selection { background: var(--ink); color: white; }
 .site { max-width: 920px; margin: 0 auto; padding: 0 40px; }
 .header { display: flex; justify-content: space-between; align-items: center; gap: 32px; padding: 26px 0 23px; border-bottom: 1px solid var(--line); }
-.monogram { font: bold 1.55rem/1 Georgia, serif; text-decoration: none; letter-spacing: -1.5px; }
+.monogram { font: 1.35rem/1 Georgia, serif; text-decoration: none; letter-spacing: -.4px; }
 nav { display: flex; flex-wrap: wrap; gap: 26px; }
 nav a { font-size: .9rem; text-decoration: none; color: var(--muted); padding: 3px 0; border-bottom: 1px solid transparent; }
 nav a:hover, nav a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--ink); }
