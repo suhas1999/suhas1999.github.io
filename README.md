@@ -15,7 +15,6 @@ A minimal, light-only portfolio hosted at https://suhas1999.github.io/.
 
 Edit the relevant HTML file. All content is directly editable, with no framework, package installation, or build step. Add news in `index.html` as a new item in `news-list`, newest first. Keep expected milestones labeled as expected. Replace the PDF at `assets/suhas-morisetty-resume.pdf` to update the CV download.
 
-To add writing, replace the placeholder with an article title, date, summary, and working link. On the Publications page, replace placeholder text only when the official title, author list, paper URL, and code URL are confirmed. Current project headings are descriptive labels from the resume, not asserted official paper titles.
 
 ## Preview
 
