@@ -32,8 +32,8 @@ h3 { font-size: 1.04rem; line-height: 1.6; font-weight: 600; margin: 0; }
 p { margin: 0 0 18px; }
 strong { font-weight: 600; }
 .intro, .page-intro { padding-top: 52px; }
-.intro { display: grid; grid-template-columns: 1fr 260px; gap: 48px; align-items: start; }
-.portrait { width: 260px; height: 260px; margin-top: 8px; }
+.intro { display: grid; grid-template-columns: 1fr 260px; gap: 48px; align-items: center; }
+.portrait { width: 260px; height: 260px; }
 .subtitle { color: var(--muted); font-size: .95rem; margin-bottom: 28px; }
 .bio { max-width: 800px; }
 .bio p:last-child { margin-bottom: 20px; }
