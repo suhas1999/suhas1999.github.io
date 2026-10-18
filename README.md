@@ -7,12 +7,12 @@ A minimal, light-only portfolio hosted at https://suhas1999.github.io/.
 - `index.html` — short introduction and dated news.
 - `contact.html` — email, LinkedIn, and CV links.
 - `styles.css` — shared black-and-white styling, mobile layout, and print styles.
-- `assets/` — favicon and original resume PDF.
+- `assets/` — favicon and portrait photo.
 - `.nojekyll` — tells GitHub Pages to serve these static files directly.
 
 ## Update
 
-Edit the relevant HTML file. All content is directly editable, with no framework, package installation, or build step. Add news in `index.html` as a new item in `news-list`, newest first. Keep expected milestones labeled as expected. Replace the PDF at `assets/suhas-morisetty-resume.pdf` to update the CV download.
+Edit the relevant HTML file. All content is directly editable, with no framework, package installation, or build step. Add news in `index.html` as a new item in `news-list`, newest first. Keep expected milestones labeled as expected.
 
 
 ## Preview
@@ -31,6 +31,6 @@ GitHub Pages publishes the root of the `main` branch. Commit and push changes to
 
 ## Content source
 
-All personal facts come from the supplied resume. Columbia graduation is expected in December 2026; no enrollment date was provided. The Capital One internship ended in August 2026. WACV is dated only to 2023. The Capital One publication remains in preparation. Missing links and writing are explicitly marked as placeholders. The downloadable original resume includes the supplied contact details.
+All personal facts come from the supplied resume. Columbia graduation is expected in December 2026; no enrollment date was provided. The Capital One internship ended in August 2026. WACV is dated only to 2023. The Capital One publication remains in preparation. Missing links and writing are explicitly marked as placeholders.
 
 The layout takes inspiration from https://r-rishabh-j.github.io/: a concise personal introduction followed by news. It uses original markup and styling, with no copied photos or personal content.
